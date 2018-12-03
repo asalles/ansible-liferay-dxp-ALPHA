@@ -1,0 +1,9 @@
+---
+- name: Creando portal-ext.properties desde template
+  template:
+    src: portal-ext.properties.j2
+    dest: "{{liferay_path}}/portal-ext.properties"
+    owner: "{{jboss_eap_user}}"
+    group: "{{jboss_eap_user}}"
+    mode: 0644
+

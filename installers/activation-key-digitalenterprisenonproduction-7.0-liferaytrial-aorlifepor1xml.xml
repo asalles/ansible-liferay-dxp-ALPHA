@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<license>
+	<account-name>Liferay Trial</account-name>
+	<owner>Liferay Trial</owner>
+	<description>Liferay Trial</description>
+	<product-name>Digital Enterprise Non-Production</product-name>
+	<product-version>7.0</product-version>
+	<license-name>Digital Enterprise Non-Production</license-name>
+	<license-type>production</license-type>
+	<license-version>5</license-version>
+	<start-date>Friday, July 6, 2018 3:00:00 AM GMT</start-date>
+	<expiration-date>Sunday, August 5, 2018 3:00:00 AM GMT</expiration-date>
+	<max-servers>1</max-servers>
+	<host-names>
+		<host-name>aorlifepor1</host-name>
+	</host-names>
+	<ip-addresses>
+		<ip-address>10.20.0.116</ip-address>
+	</ip-addresses>
+	<mac-addresses>
+		<mac-address>00:50:56:b0:09:27</mac-address>
+	</mac-addresses>
+	<key>95a4fc9aaf9633489853ad51539f2654847282a0284018003ca38586ebb15fe8e385c15e8b752109c3f09353d74ee098b0f9bc4c8418566d652f5f9c009d8c950d9e31c7a67df1da8bece638740f4e5d23a0cca89c76d32ec5433b7f2cd6ab94d55edb6fcb6c705a36e55766a1c52092bd6eb5cc62a7f9a7ecd7d1fbee50de8ce813ace5</key>
+</license>
